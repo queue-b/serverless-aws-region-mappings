@@ -12,9 +12,15 @@ service: serverless-service
 # Additional configuration ...
 
 resources:
-  # Example of importing the API gateway mappings
   # Make sure not to nest a Mapping in a Resources object
+  # API Gateway Mappings
   - ${file(./mappings/api-gateway-region-hosted-zone-map.yml)}
+  # CloudFront Mappings
+  - ${file(./mappings/cloudfront-region-hosted-zone-map.yml)}
+  # ELB Mappings
+  - ${file(./mappings/elb-region-hosted-zone-map.yml)}
+  # S3 Static Website Mappings
+  - ${file(./mappings/s3-static-website-region-hosted-zone-map.yml)}
   - Resources:
   # Additional resources ...
 ```
