@@ -32,7 +32,7 @@ There are currently region mappings for AWS API Gateway, AWS CloudFront, AWS Ela
 
 Note that some regions may be missing either due to AWS not supporting all features in all regions, or simple error.
 
-> Note: Each map uses AWS Region as a Top Level Key
+> Note: Each map uses the AWS Region (i.e. us-east-1, ap-northeast-3, etc.) as a Top Level Key
 
 | Map Name | Second Level Keys | Regions |
 | -------- | ---- | ------- |
