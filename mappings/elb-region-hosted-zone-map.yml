@@ -1,0 +1,78 @@
+Mappings:
+  ELBRegionHostedZoneMap:
+    ap-northeast-1:
+      ALBHostedZoneID: Z14GRHDCWA56QT
+      Endpoint: elasticloadbalancing.ap-northeast-1.amazonaws.com
+      NLBHostedZoneID: Z31USIVHYNEOWT
+    ap-northeast-2:
+      ALBHostedZoneID: ZWKZPGTI48KDX
+      Endpoint: elasticloadbalancing.ap-northeast-2.amazonaws.com
+      NLBHostedZoneID: ZIBE1TIR4HY56
+    ap-northeast-3:
+      ALBHostedZoneID: Z5LXEXXYW11ES
+      Endpoint: elasticloadbalancing.ap-northeast-3.amazonaws.com
+      NLBHostedZoneID: Z1GWIQ4HH19I5X
+    ap-south-1:
+      ALBHostedZoneID: ZP97RAFLXTNZK
+      Endpoint: elasticloadbalancing.ap-south-1.amazonaws.com
+      NLBHostedZoneID: ZVDDRBQ08TROA
+    ap-southeast-1:
+      ALBHostedZoneID: Z1LMS91P8CMLE5
+      Endpoint: elasticloadbalancing.ap-southeast-1.amazonaws.com
+      NLBHostedZoneID: ZKVM4W9LS7TM
+    ap-southeast-2:
+      ALBHostedZoneID: Z1GM3OXH4ZPM65
+      Endpoint: elasticloadbalancing.ap-southeast-2.amazonaws.com
+      NLBHostedZoneID: ZCT6FZBF4DROD
+    ca-central-1:
+      ALBHostedZoneID: ZQSVJUPU6J1EY
+      Endpoint: elasticloadbalancing.ca-central-1.amazonaws.com
+      NLBHostedZoneID: Z2EPGBW3API2WT
+    cn-north-1:
+      ALBHostedZoneID: Z3BX2TMKNYI13Y
+      Endpoint: elasticloadbalancing.cn-north-1.amazonaws.com.cn
+      NLBHostedZoneID: Z3QFB96KMJ7ED6
+    cn-northwest-1:
+      ALBHostedZoneID: Z3BX2TMKNYI13Y
+      Endpoint: elasticloadbalancing.cn-northwest-1.amazonaws.com.cn
+      NLBHostedZoneID: ZQEIKTCZ8352D
+    eu-central-1:
+      ALBHostedZoneID: Z215JYRZR1TBD5
+      Endpoint: elasticloadbalancing.eu-central-1.amazonaws.com
+      NLBHostedZoneID: Z3F0SRJ5LGBH90
+    eu-north-1:
+      ALBHostedZoneID: Z23TAZ6LKFMNIO
+      Endpoint: elasticloadbalancing.eu-north-1.amazonaws.com
+      NLBHostedZoneID: Z1UDT6IFJ4EJM
+    eu-west-1:
+      ALBHostedZoneID: Z32O12XQLNTSW2
+      Endpoint: elasticloadbalancing.eu-west-1.amazonaws.com
+      NLBHostedZoneID: Z2IFOLAFXWLO4F
+    eu-west-2:
+      ALBHostedZoneID: ZHURV8PSTC4K8
+      Endpoint: elasticloadbalancing.eu-west-2.amazonaws.com
+      NLBHostedZoneID: ZD4D7Y8KGAS4G
+    eu-west-3:
+      ALBHostedZoneID: Z3Q77PNBQS71R4
+      Endpoint: elasticloadbalancing.eu-west-3.amazonaws.com
+      NLBHostedZoneID: Z1CMS0P5QUZ6D5
+    sa-east-1:
+      ALBHostedZoneID: Z2P70J7HTTTPLU
+      Endpoint: elasticloadbalancing.sa-east-1.amazonaws.com
+      NLBHostedZoneID: ZTK26PT1VY4CU
+    us-east-1:
+      ALBHostedZoneID: Z35SXDOTRQ7X7K
+      Endpoint: elasticloadbalancing.us-east-1.amazonaws.com
+      NLBHostedZoneID: Z26RNL4JYFTOTI
+    us-east-2:
+      ALBHostedZoneID: Z3AADJGX6KTTL2
+      Endpoint: elasticloadbalancing.us-east-2.amazonaws.com
+      NLBHostedZoneID: ZLMOA37VPKANP
+    us-west-1:
+      ALBHostedZoneID: Z368ELLRRE2KJ0
+      Endpoint: elasticloadbalancing.us-west-1.amazonaws.com
+      NLBHostedZoneID: Z24FKFUX50B4VW
+    us-west-2:
+      ALBHostedZoneID: Z1H1FL5HABSF5
+      Endpoint: elasticloadbalancing.us-west-2.amazonaws.com
+      NLBHostedZoneID: Z18D5FSROUN65G

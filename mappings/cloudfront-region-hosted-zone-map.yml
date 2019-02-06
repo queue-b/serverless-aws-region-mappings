@@ -1,0 +1,5 @@
+Mappings:
+  CloudFrontRegionHostedZoneMap:
+    us-east-1:
+      Endpoint: cloudfront.amazonaws.com
+      HostedZoneID: Z2FDTNDATAQYW2
